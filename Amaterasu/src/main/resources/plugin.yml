@@ -1,0 +1,18 @@
+name: Amaterasu
+main: com.yourname.amaterasu.AmaterasuPlugin
+version: 1.0.0
+api-version: '1.21'
+author: you
+commands:
+  devilsfootprint:
+    description: Cast Devil's Footprint
+  plasmablessing:
+    description: Cast Plasma Blessing
+  dragonwrath:
+    description: Cast Dragon's Wrath
+  hellflame:
+    description: Cast Hellflame
+  flarerebirth:
+    description: Cast Flare Rebirth
+  piercingspike:
+    description: Cast Piercing Spike
